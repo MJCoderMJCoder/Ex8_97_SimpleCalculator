@@ -31,7 +31,7 @@ class CalculatorJFrame extends JFrame {
 	static double m; // 记忆的数字
 
 	public CalculatorJFrame() {
-		super("刘晓敏"); // 设置标题：JFrame frm = new JFrame("计算器");
+		super("纸纷飞计算器"); // 设置标题：JFrame frm = new JFrame("计算器");
 		setLayout(null); // JFrame的子窗体：自定义布局
 		setResizable(false); // 禁止调整框架大小
 
